@@ -1,9 +1,4 @@
 
-
-/* ------------------------
-common classes and utilities
----------------------------*/
-
 html{
     scroll-behavior: smooth;
 }
@@ -65,17 +60,9 @@ ul {
     background-color: #111;
   }
   
-  /* .active {
-    background-color: #04AA6D;
-  } */
-
-/* navbar design css */
-
-
-
-/* ------------------------ 
+/* 
     top header section 
----------------------------*/
+*/
 
 .top-header{
     display: flex;
@@ -114,10 +101,6 @@ ul {
     /* width: 556px;
     height: 438px; */
 }
-
-
-
-
 
 /* ------------------------ 
     all players section
@@ -179,7 +162,7 @@ latest news section
 .news{
     background-color: #F5F5F6;
     border-bottom: 20px solid;
-    border-image: linear-gradient(to right, #2D25A0, #3DBAFD);
+    border-image: linear-gradient(to right, #ca9648, #1797db);
     border-image-slice: 1;
 }
 
@@ -260,18 +243,9 @@ latest news section
     
 }
 
-
-
-
-
-
-
-
-
-
-/* ------------------------ 
+/* 
     footer section
------------------------- */
+ */
 
 footer {
     text-align: center;
@@ -292,9 +266,9 @@ footer {
 
 
 
-/* ------------------------ 
+/* 
  animation section
------------------------- */
+ */
 
 /* For image animation start*/
 .trans-item {
@@ -326,9 +300,9 @@ footer {
 
 
 
-/* --------------------------------------------------------------------
-                            Media Queries 
------------------------------------------------------------------------*/
+/* 
+ Media Queries 
+*/
 
 /* Mobile Devices */
     
